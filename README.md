@@ -1,4 +1,4 @@
-# USA_online_sales
+## USA Online Sales
 This repository contains:
 - A SQL text file with an EDA made in MySQL
 - A folder with 4 screenshots of my EDA in Excel
